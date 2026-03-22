@@ -1,0 +1,36 @@
+{
+  "name": "sleep-champion",
+  "version": "1.0.0",
+  "description": "一个记录睡眠状态的社交化平台，通过游戏化机制让用户在\"熬夜冠军\"和\"早睡冠军\"两个极端之间形成有趣的互动。",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dannyzn/sleep-champion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dannyzn/sleep-champion/issues"
+  },
+  "homepage": "https://github.com/Dannyzn/sleep-champion#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.99.3",
+    "@types/node": "^25.5.0",
+    "@types/react": "^19.2.14",
+    "autoprefixer": "^10.4.27",
+    "next": "^16.2.1",
+    "next-intl": "^4.8.3",
+    "postcss": "^8.5.8",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "tailwindcss": "^4.2.2",
+    "typescript": "^5.9.3"
+  }
+}
