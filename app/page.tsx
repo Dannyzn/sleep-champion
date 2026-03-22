@@ -7,6 +7,7 @@ export default function Home() {
         <div className="flex justify-center gap-4">
           <a href="/auth/signin" className="bg-purple-600 hover:bg-purple-700 px-6 py-3 rounded-lg">Sign In</a>
           <a href="/auth/signup" className="bg-slate-700 hover:bg-slate-600 px-6 py-3 rounded-lg">Sign Up</a>
+          <a href="/dashboard" className="bg-slate-700 hover:bg-slate-600 px-6 py-3 rounded-lg">Preview</a>
         </div>
       </div>
     </main>
